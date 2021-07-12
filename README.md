@@ -1,6 +1,6 @@
 
 ## Running the code on your local machine
-If you want to run it locally, just use prediction.py file.
+If you want to run it locally, just use prediction.py file. Open the terminal or cmd, type:
 > python prediction.py
 
 Other option could be containerize the code, deploy it on kubernetes. As I mentioned on my blog post here: [Deploying a ML Model with FastAPI on Google Kubernetes Engine(Google Cloud Platform)](https://medium.com/analytics-vidhya/deploying-a-ml-model-with-fastapi-on-google-kubernetes-engine-google-cloud-platform-bc2adbe0a35a)
