@@ -8,3 +8,5 @@ Other option could be containerize the code, maybe go one step further and deplo
 
 In this case, you need to delete last chunk of code which is this:
 https://github.com/samozturk/fastapiDeployYOLO/blob/34d210187437a28a2d8f30c7b2a5ce0bc9d901c1/prediction.py#L115-L116
+
+You need to delete it because the host has been specified on [Dockerfile](https://github.com/samozturk/fastapiDeployYOLO/blob/f17c50d8c358329280615849e2f98a9d674d0e8d/Dockerfile#L12) 
